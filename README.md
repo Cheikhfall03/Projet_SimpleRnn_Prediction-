@@ -30,7 +30,7 @@ Voici la structure des fichiers du projet :
 
 movie-review-sentiment-analysis/
 
-├── app.py                # Application Streamlit pour l'interface utilisateur
+├── main.py                # Application Streamlit pour l'interface utilisateur
 
 ├── model_review_rnn.h5    # Modèle pré-entraîné sauvegardé
 
@@ -38,4 +38,4 @@ movie-review-sentiment-analysis/
 
 ├── README.md             # Documentation du projet
 
-└── preprocess.py          # Prétraitement des données et fonctions utilitaires
+└── projet_simple_rnn.ipynb          # PEntrainement du modele
