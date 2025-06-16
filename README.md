@@ -39,3 +39,5 @@ movie-review-sentiment-analysis/
 ├── README.md             # Documentation du projet
 
 └── projet_simple_rnn.ipynb          # Entrainement du modele
+# Lien du site
+https://reviewmoviepredict.streamlit.app/
