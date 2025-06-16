@@ -9,7 +9,7 @@ import streamlit as st
 word_index = imdb.get_word_index()
 reverse_word_index = {value: key for key, value in word_index.items()}
 
-model = load_model('/home/cheeks/Documents/Projet Mchine Learning/Project 3 Movie Review_End2End_RNN/model_review_rnn.h5')
+model = load_model('model_review_rnn.h5')
 
 # Helper Functions
 def decode_review(encoded_review):
